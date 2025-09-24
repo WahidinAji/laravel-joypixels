@@ -1,5 +1,5 @@
 {
-    "name": "WahidinAji/laravel-joypixels",
+    "name": "wahidinaji/laravel-joypixels",
     "type": "library",
     "description": "Laravel helper for Joypixels, EmojiOne",
     "keywords": [
@@ -12,7 +12,7 @@
         "andkab",
         "andrew_frost"
     ],
-    "homepage": "https://github.com/WahidinAji/laravel-joypixels",
+    "homepage": "https://github.com/wahidinaji/laravel-joypixels",
     "license": "MIT",
     "authors": [
         {

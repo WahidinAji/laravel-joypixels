@@ -1,4 +1,4 @@
-# WARNING: 
+# WARNING
 
 This package causes issues with my Project and Can't install it anymore. Based on the original package by [andkab](https://github.com/andkab/laravel-joypixels) is no longer maintained by the original author and removed from Packagist. I've forked the package and published it to Packagist to fix the issues.
 
